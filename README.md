@@ -1,6 +1,8 @@
 # Projeto Chalé Hotel :partly_sunny:
 
-#### Projeto criado no curso Desenvolvimento Web Completo 2020 - 20 cursos + 20 projetos, da plataforma Udemy.
+:octocat: https://marcella-ol.github.io/chale-hotel/
+
+#### Projeto criado no curso Desenvolvimento Web Completo 2020, da plataforma Udemy.
 
 #### Professor: Jamilton Damasceno
 
